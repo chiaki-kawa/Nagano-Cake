@@ -1,4 +1,4 @@
-# README
+# Nagano Cake
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ER図
+　https://drive.google.com/file/d/1iHH2ZZiiKBDctdH0oFk6PgdVjmDymI5S/view?usp=sharing
